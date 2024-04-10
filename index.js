@@ -34,4 +34,4 @@ const saveQRCodeImage = async (texto, tamanho) => {
 };
 
 // text, width x height (square)
-saveQRCodeImage("texto", 350);
+saveQRCodeImage("message", 350);
